@@ -1,0 +1,25 @@
+.search input[type=submit] {
+  text-indent: -9999px;
+  text-transform: capitalize;
+  font-size: 0;
+  line-height: 0;
+}
+nav.primary-nav ul li {
+  zoom: 1;
+  *display: inline;
+}
+.sidebar ul li {
+  zoom: 1;
+  *display: inline;
+}
+ul.social li a {
+  text-indent: -9999px;
+  text-transform: capitalize;
+  font-size: 0;
+  display: block;
+  line-height: 0;
+}
+.wp-pagenavi {
+  display: block;
+  height: 25px !important;
+}
